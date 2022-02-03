@@ -1,0 +1,70 @@
+*{
+    list-style: none;
+}
+
+header{
+    min-height: 10vh;
+}
+body{
+    min-height: 80vh;
+}
+.imagenes{
+    height: 1000px;
+}
+
+.carousel
+{
+    width: 90%;
+}
+
+iframe{
+    height:685px;
+}
+.menu{
+    display: inline-block;
+    margin-left: 10px;
+    width: 20%;
+    position: relative;
+    font-size: 14px;
+}
+
+footer{
+    min-height: 5vh;
+    text-align: center;
+}
+
+footer ul li{
+    margin-top: 5px;
+}
+
+#whatsapp{
+    color: white;
+}
+
+#facebook{
+    color: white;
+}
+
+#instagram{
+    color: white;
+}
+
+#youtube{
+    color: white;
+}
+
+#whatsapp:hover{
+    color:#0fad44 ;
+}
+
+#facebook:hover{
+    color: #000530;
+}
+
+#instagram:hover{
+    color: rgb(110, 31, 110);
+}
+
+#youtube:hover{
+    color: red;
+}
